@@ -21,3 +21,5 @@
 ![22ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=22ema&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=22ema)](https://solved.ac/22ema)
 ---
+## Resume
+- Resume : https://22ema.notion.site/Resume-51f5702f8dd74cfa9e504a051ab02829
