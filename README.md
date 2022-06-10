@@ -17,11 +17,11 @@
  <img src="https://img.shields.io/badge/Keras-green?style=for-the-badge&logo=keras&logoColor=white"/>
  <img src="https://img.shields.io/badge/OpenCV-E34F26?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
-<p align="left">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22ema&layout=compact)](https://github.com/22ema/github-readme-stats)
-![22ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=22ema&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=22ema)](https://solved.ac/22ema)
 
-</p>
+ 
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22ema&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=22ema&show_icons=true&theme=radical"/>
+ <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=22ema"/>
+ 
 </div>
