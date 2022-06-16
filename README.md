@@ -29,11 +29,6 @@
 - CV(Computer Vision)
 - Deeplearning based System
 
-###### Problem Solving=
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=22ema)](https://solved.ac/22ema)<br/>
-
-
 ###### introduce myself=
 <p align="left">
  <a href="https://development-ima.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Devblog-black"/></a>
