@@ -34,4 +34,5 @@
  <a href="https://development-ima.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Devblog-black"/></a>
  <a href="https://www.linkedin.com/in/yunsung-han-368729194/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue"/></a>
  <a href="https://22ema.notion.site/Resume-51f5702f8dd74cfa9e504a051ab02829" target="_blank"><img src="https://img.shields.io/badge/-Resume-yellow"/></a>
+ <a href="https://www.codewars.com/users/22ema" target="_blank"><img src="https://img.shields.io/badge/-codewars-red"/></a>
 </p>
